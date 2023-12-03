@@ -20,7 +20,7 @@ This command sends a POST request with the text "Hello, world!" and saves the re
 
 ## Dependencies
 
-* [Actix Web](htthttps://actix.rs/)
+* [Actix Web](https://actix.rs/)
 * [qrcode_generator](https://crates.io/crates/qrcode_generator)
 
 ## License
